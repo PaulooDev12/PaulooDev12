@@ -72,7 +72,7 @@
 
 <p>
 📧 Joao2636j@email.com <br>
-💼 LinkedIn (coloca aqui)
+💼 LinkedIn ()
 </p>
 
 ---
