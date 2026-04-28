@@ -1,7 +1,7 @@
 <h1 align="center">👋 Fala, eu sou o Paulo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+evolução;Front-end+%2B+Back-end;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+evolução;Back-end+%2B+Back-end;Sempre+aprendendo+algo+novo" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 <h2>🔥 Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=PaulooDev12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
