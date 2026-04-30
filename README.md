@@ -53,7 +53,7 @@
 <h2>📌 Projetos</h2>
 
 <p>
-🚧 Em construção... mas vem coisa boa aí.
+🚧 Em construção. mas vem coisa boa aí.
 </p>
 
 ---
