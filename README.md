@@ -20,7 +20,7 @@
 <h2>🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,java,spring,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,git,github,vscode" />
 </p>
 
 ---
