@@ -25,26 +25,11 @@
 
 ---
 
-<h2>📊 Stats</h2>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulooDev12&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 <h2>🔥 Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PaulooDev12&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h2>🐍 Contributions</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PaulooDev12/PaulooDev12/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
