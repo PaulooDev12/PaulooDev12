@@ -9,7 +9,7 @@
 <h2>🚀 Sobre mim</h2>
 
 <p>
-⚙️ Focado em Back-end com ☕️ Java + Spring Boot 🍃 <br>
+⚙️ Meu objetivo é ser um desenvolvedor Back-end com ☕️ Java + Spring Boot 🍃 <br>
 💻 Explorando Front-end com HTML, css, Javascript<br>
 🧠 Aprendendo construindo projetos reais <br>
 🎮 Gamer de indie nas horas vagas
