@@ -20,7 +20,7 @@
 <h2>🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,java,spring,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgresql,java,spring,html,css,js,git,github" />
 </p>
 
 ---
