@@ -1,7 +1,7 @@
 <h1 align="center">👋 Fala, eu sou o Paulo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=500&lines=Full-Stack+em+formação;Spring+boot" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=500&lines=Full-Stack+em+formação;Back-end:+Spring+boot;Front-end:+Ainda+em+aprendizado"/>
 </p>
 
 ---
@@ -32,19 +32,20 @@ tecnologias como react e angular, gosto bastante do back-end principalmente da p
 
 ---
 
-<h2>📌 Projetos</h2>
+<h2>Projetos</h2>
 
 <p>
-🚧 Em construção. mas vem coisa boa aí.
+Site de wallpapers "Cloud-wallpapers" <br>
 </p>
 
 ---
 
-<h2>🌱 Atualmente</h2>
+<h2>Atualmente</h2>
 
 <ul>
   <li>APIs REST</li>
   <li>Integração Front + Back</li>
+  <li>Banco de dados relacional</li>
   <li>Boas práticas</li>
 </ul>
 
@@ -54,9 +55,8 @@ tecnologias como react e angular, gosto bastante do back-end principalmente da p
 
 <p>
 📧 Joao2636j@email.com <br>
-💼 LinkedIn ()
 </p>
 
 ---
 
-<h3 align="center">⚡ “Código simples hoje, melhor amanhã.”</h3>
+<h3 align="center"> git commit -m "Fiz um monte de coisa aí" </h3>
