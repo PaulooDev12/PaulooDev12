@@ -5,28 +5,29 @@
 </p>
 
 ---
-
-<h2>🚀 Sobre mim</h2>
-
-<p>
-⚙️ Meu objetivo é ser um desenvolvedor Back-end com ☕️ Java + Spring Boot 🍃 <br>
-💻 Explorando Front-end com HTML, css, Javascript<br>
-🧠 Aprendendo construindo projetos reais <br>
-🎮 Gamer de indie nas horas vagas
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4"/>
 </p>
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Sobre mim</h2>
+
+<p>
+Próximo da área de T.I desde cedo comecei com android por volta dos 12 anos <br>
+Hoje procuro desenvolver aplicações full-stack como foco em spring boot, html, css e js já buscando desenvolver habilidade para <br>
+tecnologias como react e angular, gosto bastante do back-end principalmente da parte de autenticação Jwt, cookies e oauth2 usando serviços do Google e GitHub <br>
+</p>
+
+---
+
+<h2>Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,java,spring,html,css,js,git,github" />
 </p>
 
 ---
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4"/>
-</p>
 
 
 ---
