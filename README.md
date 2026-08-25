@@ -6,7 +6,7 @@
 
 ---
 
-<img width="576" height="321" alt="tenor (1)" src="https://github.com/user-attachments/assets/4f2ab44a-1a84-429d-bc5a-b852c9e7259f" />
+<img width="776" height="521" alt="tenor (1)" src="https://github.com/user-attachments/assets/4f2ab44a-1a84-429d-bc5a-b852c9e7259f" />
 
 
 
