@@ -31,6 +31,10 @@ tecnologias como react e angular, gosto bastante do back-end principalmente da p
 
 ---
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=PaulooDev12&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
 
 ---
 
