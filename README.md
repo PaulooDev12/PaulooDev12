@@ -33,7 +33,8 @@ tecnologias como react e angular, gosto bastante do back-end principalmente da p
 
 
 <img
-  src="https://streak-stats.demolab.com?user=PaulooDev12&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulooDev12&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
 />
 
 ---
