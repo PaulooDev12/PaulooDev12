@@ -6,7 +6,8 @@
 
 ---
 
-<img width="1080" height="600" alt="steinsgate-thumbs-up" src="https://github.com/user-attachments/assets/661a756d-4786-46d8-ad95-719ccae919f6" />
+<img width="576" height="321" alt="tenor (1)" src="https://github.com/user-attachments/assets/4f2ab44a-1a84-429d-bc5a-b852c9e7259f" />
+
 
 
 
