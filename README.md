@@ -58,6 +58,11 @@ Site de wallpapers "Cloud-wallpapers" <br>
 </p>
 
 ---
-<p align="center">  
-<code> git commit -m "Fiz um monte de coisa aí" </code>
-</p>
+<div align="center">
+
+<pre>
+$ git add .
+$ git commit -m "Fiz um monte de coisa aí"
+$ git push
+</pre>
+
