@@ -5,9 +5,9 @@
 </p>
 
 ---
-<p align="center">
+
   <div class="tenor-gif-embed" data-postid="10332382" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/steinsgate-thumbs-up-nice-sweet-cool-gif-10332382">Steinsgate Thumbs Up GIF</a>from <a href="https://tenor.com/search/steinsgate-gifs">Steinsgate GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</p>
+
 
 ---
 
