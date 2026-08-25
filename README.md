@@ -5,7 +5,7 @@
 </p>
 
 ---
-<a href="https://tenor.com/view/steinsgate-thumbs-up-nice-sweet-cool-gif-10332382">Steinsgate Thumbs Up GIF</a>
+[<a href="https://tenor.com/view/steinsgate-thumbs-up-nice-sweet-cool-gif-10332382">Steinsgate Thumbs Up GIF</a>](https://tenor.com/pt-BR/view/steinsgate-thumbs-up-nice-sweet-cool-gif-10332382)
 
 
 ---
