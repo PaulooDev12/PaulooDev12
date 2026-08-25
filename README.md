@@ -6,7 +6,7 @@
 
 ---
 
-<img width="900" height="400" alt="steinsgate-thumbs-up" src="https://github.com/user-attachments/assets/661a756d-4786-46d8-ad95-719ccae919f6" />
+<img width="1080" height="600" alt="steinsgate-thumbs-up" src="https://github.com/user-attachments/assets/661a756d-4786-46d8-ad95-719ccae919f6" />
 
 
 
