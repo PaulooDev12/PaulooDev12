@@ -59,4 +59,4 @@ Site de wallpapers "Cloud-wallpapers" <br>
 
 ---
 
-<h3 align="center"> git commit -m "Fiz um monte de coisa aí" </h3>
+<code> align="center"> git commit -m "Fiz um monte de coisa aí" </code>
