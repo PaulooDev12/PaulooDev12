@@ -17,8 +17,8 @@
 
 <p>
 Próximo da área de T.I desde cedo comecei com android por volta dos 12 anos <br>
-Hoje procuro desenvolver aplicações full-stack como foco em spring boot, html, css e js já buscando desenvolver habilidade para <br>
-tecnologias como react e angular, gosto bastante do back-end principalmente da parte de autenticação Jwt, cookies e oauth2 usando serviços do Google e GitHub <br>
+Hoje procuro desenvolver aplicações full-stack como foco em spring boot e angular já buscando desenvolver habilidade para <br>
+gosto bastante do back-end principalmente da parte de autenticação Jwt, cookies e oauth2 usando serviços do Google e GitHub <br>
 </p>
 
 ---
