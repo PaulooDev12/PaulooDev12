@@ -1,7 +1,7 @@
 <h1 align="center">👋 Fala, eu sou o Paulo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=500&lines=Full-Stack+em+formação;Back-end:+Spring+boot;Front-end:+Ainda+em+aprendizado"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F0F0F0&size=25&center=true&vCenter=true&width=500&lines=Full-Stack+em+formação;Back-end:+Spring+boot;Front-end:+Ainda+em+aprendizado"/>
 </p>
 
 ---
