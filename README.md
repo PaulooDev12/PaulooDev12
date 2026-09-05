@@ -17,7 +17,7 @@
 
 <p>
 Próximo da área de T.I desde cedo comecei com modificações e otimizações próximas do hardware <br> em android por volta dos 12 anos 
-Hoje procuro desenvolver aplicações full-stack como foco em spring boot e angular já buscando desenvolver habilidade para <br>
+Hoje procuro desenvolver aplicações full-stack como foco em spring boot e angular já buscando<br>
 gosto bastante do back-end principalmente da parte de autenticação Jwt, cookies e oauth2 usando serviços do Google e GitHub <br>
 </p>
 
