@@ -16,7 +16,7 @@
 <h2>Sobre mim</h2>
 
 <p>
-Próximo da área de T.I desde cedo comecei com android por volta dos 12 anos <br>
+Próximo da área de T.I desde cedo comecei com modificações e otimizações próximas do hardware em android por volta dos 12 anos <br>
 Hoje procuro desenvolver aplicações full-stack como foco em spring boot e angular já buscando desenvolver habilidade para <br>
 gosto bastante do back-end principalmente da parte de autenticação Jwt, cookies e oauth2 usando serviços do Google e GitHub <br>
 </p>
