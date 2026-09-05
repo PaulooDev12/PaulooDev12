@@ -5,11 +5,11 @@
 </p>
 
 ---
+
 <p align="center">
-<img width="576" height="321" alt="tenor (1)" src="https://github.com/user-attachments/assets/4f2ab44a-1a84-429d-bc5a-b852c9e7259f" />
+<img width="500" height="354" alt="lain_gif" src="https://github.com/user-attachments/assets/c1cf41ad-a060-42e8-a565-456657c2ba37" />
+
 </p>
-
-
 
 ---
 
