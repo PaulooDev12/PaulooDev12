@@ -1,14 +1,24 @@
 <h1 align="center">👋 Fala, eu sou o Paulo</h1>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F0F0F0&size=25&center=true&vCenter=true&width=500&lines=Full-Stack+em+formação;Back-end:+Spring+boot;Front-end:+Ainda+em+aprendizado"/>
+<img width="576" height="321" alt="tenor (1)" src="https://github.com/user-attachments/assets/4f2ab44a-1a84-429d-bc5a-b852c9e7259f" />
+
 </p>
 
 ---
 
 <p align="center">
-<img width="500" height="354" alt="lain_gif" src="https://github.com/user-attachments/assets/c1cf41ad-a060-42e8-a565-456657c2ba37" />
+  
+<img src="https://github-stats-extended.vercel.app/api?username=PaulooDev12&count_private=true&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)" />
 
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PaulooDev12&count_private=false&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=f0f0f0&icon_color=58a6ff&hide_border=true)](https://github.com/stats-organization/github-stats-extended" />
 </p>
 
 ---
@@ -26,10 +36,11 @@ gosto bastante do back-end principalmente da parte de autenticação Jwt, cookie
 <h2>Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,java,spring,angular,scss,ts,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgresql,java,spring,angular,scss,ts,git,github,linux,docker,redis" />
 </p>
 
 ---
+
 
 
 <h2>Projetos</h2>
