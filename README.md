@@ -2,27 +2,6 @@
 
 ---
 
-<p align="center">
-<img width="576" height="321" alt="tenor (1)" src="https://github.com/user-attachments/assets/4f2ab44a-1a84-429d-bc5a-b852c9e7259f" />
-
-</p>
-
----
-
-<p align="center">
-  
-<img src="https://github-stats-extended.vercel.app/api?username=PaulooDev12&count_private=true&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PaulooDev12&count_private=false&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=f0f0f0&icon_color=58a6ff&hide_border=true" />
-</p>
-
----
-
 <h2>Sobre mim</h2>
 
 <p>
@@ -41,7 +20,24 @@ gosto bastante do back-end principalmente da parte de autenticação Jwt, cookie
 
 ---
 
+<p align="center">
 
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PaulooDev12&count_private=false&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=f0f0f0&icon_color=58a6ff&hide_border=true" />
+
+</p>
+
+---
+
+
+<h1>Stats</h1>
+
+<p align="center">
+    
+<img src="https://github-stats-extended.vercel.app/api?username=PaulooDev12&count_private=true&show_icons=true&bg_color=252838&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&" />
+</p>
+
+---
 
 <h2>Projetos</h2>
 
